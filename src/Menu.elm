@@ -70,7 +70,6 @@ just tell the menu how to grab an ID for a section and its related data.
 
 -}
 
-import Char
 import Html
 import Menu.Internal as Internal
 

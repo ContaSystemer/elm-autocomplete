@@ -125,7 +125,3 @@ view { autoState, query, people } =
       ]
 
 ```
-
----
-
-![Conta Systemer AS](https://contasystemer.no/wp-content/themes/contasystemer/images/logo.png)

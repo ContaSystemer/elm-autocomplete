@@ -3,7 +3,7 @@
     "name": "ContaSystemer/elm-menu",
     "summary": "A customizable menu component which could be used for autocomplete component",
     "license": "BSD-3-Clause",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "Menu"
     ],
